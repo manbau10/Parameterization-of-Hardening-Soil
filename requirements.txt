@@ -9,3 +9,4 @@ pillow==9.0.1
 scikit-learn==1.0.2
 tensorflow==2.8
 protobuf==3.20.0
+git-lfs
